@@ -1,0 +1,24 @@
+{
+  "name": "alghorytms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adametsofficial/Hash-table.git"
+  },
+  "keywords": [],
+  "author": "Adametsofficial <av.styledev@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adametsofficial/Hash-table/issues"
+  },
+  "homepage": "https://github.com/adametsofficial/Hash-table#readme",
+  "type": "module"
+}
