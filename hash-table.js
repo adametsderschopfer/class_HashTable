@@ -54,12 +54,3 @@ class HashTable {
     return index % this._size;
   }
 }
-
-const ht = new HashTable();
-
-ht.setElement("boroda", "boroda");
-ht.setElement("winderton", "boroda13");
-ht.setElement("soer", "soer");
-console.table(ht.dump);
-
-console.log(ht.getElement("boroda"));
